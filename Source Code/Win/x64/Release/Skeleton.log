@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Zebra.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  EZKey.cpp
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\EZKey.cpp(337,19): warning C4244: '=': conversion from 'double' to 'A_u_short', possible loss of data
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\EZKey.cpp(338,23): warning C4244: '=': conversion from 'double' to 'A_u_short', possible loss of data
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\EZKey.cpp(339,21): warning C4244: '=': conversion from 'double' to 'A_u_short', possible loss of data
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\EZKey.cpp(340,23): warning C4244: '=': conversion from 'double' to 'A_u_short', possible loss of data
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\EZKey.cpp(348,19): warning C4244: '=': conversion from 'double' to 'PF_FpShort', possible loss of data
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\EZKey.cpp(349,23): warning C4244: '=': conversion from 'double' to 'PF_FpShort', possible loss of data
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\EZKey.cpp(350,21): warning C4244: '=': conversion from 'double' to 'PF_FpShort', possible loss of data
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\EZKey.cpp(351,23): warning C4244: '=': conversion from 'double' to 'PF_FpShort', possible loss of data
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\EZKey.cpp(368,24): warning C4101: 'poop': unreferenced local variable
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\EZKey.cpp(370,10): warning C4101: 'src_rect': unreferenced local variable
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\EZKey.cpp(506,14): warning C4101: 'channel_param': unreferenced local variable
+     Creating library x64\Release\/EZKey.lib and object x64\Release\/EZKey.exp
+  Skeleton.vcxproj -> C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NT Productions\EZKey.aex

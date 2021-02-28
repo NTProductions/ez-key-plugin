@@ -1,0 +1,4 @@
+E:\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\Zebra\Win\x64\Debug\Zebra.pdb
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\Zebra\Win\x64\Debug\Zebra.pdb
+C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NT Productions\EZKey.pdb
+H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\Win\x64\Debug\EZKey.pdb

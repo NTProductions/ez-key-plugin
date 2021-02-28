@@ -1,0 +1,4 @@
+^H:\FREELANCER PROJECTS\PLUGINS\LEARNING\AFTEREFFECTSSDK 17.1.2\EXAMPLES\NT PRODUCTIONS\EZ KEY\EZKEYPIPL.R
+cl /I "H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\Win\..\..\..\Headers" /EP ".."\\"EZKeyPiPL.r" > "x64\Debug\"\\"EZKeyPiPL.rr"
+"H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\Win\..\..\..\Resources\PiPLTool" "x64\Debug\EZKeyPiPL.rr" "x64\Debug\EZKeyPiPL.rrc"
+cl /D "MSWindows" /EP x64\Debug\EZKeyPiPL.rrc >               "H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\EZ Key\Win\"\\"EZKeyPiPL".rc

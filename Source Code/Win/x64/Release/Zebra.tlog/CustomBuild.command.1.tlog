@@ -1,0 +1,4 @@
+^H:\FREELANCER PROJECTS\PLUGINS\LEARNING\AFTEREFFECTSSDK 17.1.2\EXAMPLES\NT PRODUCTIONS\ZEBRA\ZEBRAPIPL.R
+cl /I "H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\Zebra\Win\..\..\..\Headers" /EP ".."\\"ZebraPiPL.r" > "x64\Release\"\\"ZebraPiPL.rr"
+"H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\Zebra\Win\..\..\..\Resources\PiPLTool" "x64\Release\ZebraPiPL.rr" "x64\Release\ZebraPiPL.rrc"
+cl /D "MSWindows" /EP x64\Release\ZebraPiPL.rrc >               "H:\Freelancer Projects\Plugins\Learning\AfterEffectsSDK 17.1.2\Examples\NT Productions\Zebra\Win\"\\"ZebraPiPL".rc
